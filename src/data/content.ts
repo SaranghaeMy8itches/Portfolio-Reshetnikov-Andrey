@@ -304,7 +304,7 @@ export const ui = {
   email: "resh.and.ray@gmail.com",
   socials: [
     { href: "https://t.me/Ywj637sN20", label: "Telegram" },
-    { href: "https://www.linkedin.com/feed/", label: "LinkedIn" },
+    { href: "https://www.linkedin.com/in/andrey-reshetnikov-46228a251/", label: "LinkedIn" },
   ],
   process: { ru: "Процесс", en: "Process" },
   footer: { ru: "© 2026 Andrey Reshetnikov — мультидисциплинарный дизайнер", en: "© 2026 Andrey Reshetnikov — multidisciplinary designer" },
