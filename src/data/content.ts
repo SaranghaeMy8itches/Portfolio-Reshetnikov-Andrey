@@ -206,25 +206,25 @@ export const works: Work[] = [
 ]
 
 export const education: TimelineItem[] = [
-  { years: { ru: "Март 2024 — авг. 2024", en: "Mar 2024 — Aug 2024" }, title: { ru: "Курсы UI/UX-дизайна", en: "UI/UX design courses" }, place: { ru: "Онлайн-курсы TOP-Academy", en: "TOP-Academy online courses" } },
-  { years: { ru: "Март 2022 — июл. 2022", en: "Mar 2022 — Jul 2022" }, title: { ru: "Курсы front-end", en: "Front-End courses" }, place: { ru: "Платформа Slack Education", en: "Slack Education platform" } },
-  { years: { ru: "Сен. 2020 — н.в.", en: "Sep 2020 — present" }, title: { ru: "Бакалавриат по дизайну и программированию", en: "Bachelor's Degree in Design and Programming" }, place: { ru: "Санкт-Петербургский государственный университет промышленных технологий и дизайна", en: "St. Petersburg State University of Industrial Technologies and Design" } },
-  { years: { ru: "Сен. 2018 — май 2019", en: "Sep 2018 — May 2019" }, title: { ru: "Курсы «C++» в ИТМО", en: "ITMO «C++» courses" }, place: { ru: "Университет ИТМО, Санкт-Петербург", en: "St. Petersburg ITMO University" } },
+  { years: { ru: "Март 2024 — Авг 2024", en: "Mar 2024 — Aug 2024" }, title: { ru: "Курсы UI/UX-дизайна", en: "UI/UX design courses" }, place: { ru: "Онлайн-курсы TOP-Academy", en: "TOP-Academy online courses" } },
+  { years: { ru: "Март 2022 — Июл 2022", en: "Mar 2022 — Jul 2022" }, title: { ru: "Курсы front-end", en: "Front-End courses" }, place: { ru: "Платформа Slack Education", en: "Slack Education platform" } },
+  { years: { ru: "Сен 2020 — Сейчас", en: "Sep 2020 — Present" }, title: { ru: "Бакалавриат по дизайну и программированию", en: "Bachelor's Degree in Design and Programming" }, place: { ru: "Санкт-Петербургский государственный университет промышленных технологий и дизайна", en: "St. Petersburg State University of Industrial Technologies and Design" } },
+  { years: { ru: "Сен 2018 — Май 2019", en: "Sep 2018 — May 2019" }, title: { ru: "Курсы «C++» в ИТМО", en: "ITMO «C++» courses" }, place: { ru: "Университет ИТМО, Санкт-Петербург", en: "St. Petersburg ITMO University" } },
 ]
 
 export const academic: TimelineItem[] = [
-  { years: { ru: "Авг. 2024", en: "Aug 2024" }, title: { ru: "UI/UX мобильного приложения", en: "Mobile App UI/UX Development" }, place: { ru: "Разработал UI/UX для платформы онлайн-шопинга (учебный проект) в Figma.", en: "Designed UI/UX for an online shopping platform (non-professional project) using Figma." } },
-  { years: { ru: "Авг. 2024", en: "Aug 2024" }, title: { ru: "UI/UX лендинга", en: "Landing Page UI/UX Development" }, place: { ru: "Спроектировал и собрал лендинг для поиска работы (учебный проект) в Figma.", en: "Designed and developed a job search landing page for a non-professional project using Figma." } },
-  { years: { ru: "Фев. 2022 — май 2022", en: "Feb 2022 — May 2022" }, title: { ru: "Разработка игры на SFML", en: "Game Development using SFML" }, place: { ru: "Разработал геймплей, реализовал игровые механики, нарисовал спрайты и фоны.", en: "Developed gameplay, implemented game mechanics, and designed sprites and backgrounds." } },
-  { years: { ru: "Сен. 2021 — дек. 2021", en: "Sep 2021 — Dec 2021" }, title: { ru: "Университетский дизайн-проект", en: "University Design Project" }, place: { ru: "Создал праздничный постер в Adobe Photoshop и Adobe Illustrator.", en: "Created a holiday poster using Adobe Photoshop and Adobe Illustrator." } },
-  { years: { ru: "Март 2021 — май 2021", en: "Mar 2021 — May 2021" }, title: { ru: "Разработка GUI мобильного приложения", en: "GUI Development for a Mobile App" }, place: { ru: "Спроектировал GUI для учебного проекта в Figma.", en: "Designed the GUI for a non-professional project using Figma." } },
+  { years: { ru: "Авг 2024", en: "Aug 2024" }, title: { ru: "UI/UX мобильного приложения", en: "Mobile App UI/UX Development" }, place: { ru: "Разработал UI/UX для платформы онлайн-шопинга (учебный проект) в Figma.", en: "Designed UI/UX for an online shopping platform (non-professional project) using Figma." } },
+  { years: { ru: "Авг 2024", en: "Aug 2024" }, title: { ru: "UI/UX лендинга", en: "Landing Page UI/UX Development" }, place: { ru: "Спроектировал и собрал лендинг для поиска работы (учебный проект) в Figma.", en: "Designed and developed a job search landing page for a non-professional project using Figma." } },
+  { years: { ru: "Фев 2022 — Май 2022", en: "Feb 2022 — May 2022" }, title: { ru: "Разработка игры на SFML", en: "Game Development using SFML" }, place: { ru: "Разработал геймплей, реализовал игровые механики, нарисовал спрайты и фоны.", en: "Developed gameplay, implemented game mechanics, and designed sprites and backgrounds." } },
+  { years: { ru: "Сен 2021 — Дек 2021", en: "Sep 2021 — Dec 2021" }, title: { ru: "Университетский дизайн-проект", en: "University Design Project" }, place: { ru: "Создал праздничный постер в Adobe Photoshop и Adobe Illustrator.", en: "Created a holiday poster using Adobe Photoshop and Adobe Illustrator." } },
+  { years: { ru: "Март 2021 — Май 2021", en: "Mar 2021 — May 2021" }, title: { ru: "Разработка GUI мобильного приложения", en: "GUI Development for a Mobile App" }, place: { ru: "Спроектировал GUI для учебного проекта в Figma.", en: "Designed the GUI for a non-professional project using Figma." } },
 ]
 
 export const experience: TimelineItem[] = [
-  { years: { ru: "Май 2025 — сен. 2026", en: "May 2025 — Sep 2026" }, title: { ru: "Графический дизайнер · «Bocharoff»", en: "Graphic Designer · «Bocharoff»" }, place: { ru: "Алматы, Казахстан. Разрабатывал визуальные концепции рекламных конструкций, POS-материалов, выставочных стендов и промо-мерча. Создавал концепт-арт и визуализации мобильных промо-зон и ритейл-уголков для уличных фестивалей и выездных мероприятий. Адаптировал дизайн под технические ограничения — оптимизировал конструкции по компактности, лёгкости и эстетике без потери функциональности. Разрабатывал фирменный стиль и адаптировал брендбуки клиентов под нестандартные рекламные носители. Вёл комплексную допечатную подготовку макетов для широкоформатной, интерьерной, УФ- и шелкотрафаретной печати, адаптируя макеты под особенности каждого материала. Проверял цветопробы и тесно работал с производственным отделом и печатниками.", en: "Almaty, Kazakhstan. Developing visual concepts for advertising structures, POS materials, exhibition stands and promotional merchandise. Creating concept art and visualizations for mobile promo zones and retail corners at outdoor festivals and off-site events. Adapting designs to technical constraints — optimizing structures for compactness, lightness and aesthetics without compromising functionality. Developing corporate identity and adapting clients' brandbooks for non-standard advertising media. Comprehensive pre-press for large-format, interior, UV and silkscreen printing, adapting layouts to the specifics of each material. Reviewing colour proofs and working closely with the production department and print technicians." } },
-  { years: { ru: "Сен. 2023 — янв. 2025", en: "Sep 2023 — Jan 2025" }, title: { ru: "Фриланс · UpWork, Freelancer", en: "Freelance · UpWork, Freelancer" }, place: { ru: "Выполнял широкий спектр заказов, которые находил на UpWork, Freelancer и в Telegram. В основном — дизайн логотипов, ретушь фото, а также правки и обновления дизайна.", en: "Handled a wide range of orders sourced through UpWork, Freelancer and Telegram. Mainly logo design, photo retouching, and design fixes and updates." } },
-  { years: { ru: "Март 2023 — янв. 2024", en: "Mar 2023 — Jan 2024" }, title: { ru: "Графический дизайнер · «OL Print»", en: "Graphic Designer · «OL Print»" }, place: { ru: "Батуми, Грузия. Ежедневно общался с клиентами, чтобы максимально точно закрыть их задачи. Разрабатывал разнообразную печатную продукцию — визитки, баннеры, флаеры, рекламу в транспорте и др., — готовил её к производству и/или участвовал в нём, а также готовил финальные макеты к печати.", en: "Batumi, Georgia. Worked with clients daily to meet their needs at the highest level. Designed a range of print products — business cards, banners, flyers, transit ads and more — prepared them for and/or oversaw production, and prepared final artwork for manufacture." } },
-  { years: { ru: "Май 2021 — янв. 2022", en: "May 2021 — Jan 2022" }, title: { ru: "Стажёр front-end разработчик · ООО «M52»", en: "Front-End Developer Intern · LLC «M52»" }, place: { ru: "Санкт-Петербург, Россия. Участвовал в разработке сайта российской интернет-компании, а также в проработке дизайна.", en: "St. Petersburg, Russia. Helped develop the website of a Russian internet company, and took part in the design work." } },
+  { years: { ru: "Май 2025 — Сен 2026", en: "May 2025 — Sep 2026" }, title: { ru: "Графический дизайнер · «Bocharoff»", en: "Graphic Designer · «Bocharoff»" }, place: { ru: "Алматы, Казахстан. Разрабатывал визуальные концепции рекламных конструкций, POS-материалов, выставочных стендов и промо-мерча. Создавал концепт-арт и визуализации мобильных промо-зон и ритейл-уголков для уличных фестивалей и выездных мероприятий. Адаптировал дизайн под технические ограничения — оптимизировал конструкции по компактности, лёгкости и эстетике без потери функциональности. Разрабатывал фирменный стиль и адаптировал брендбуки клиентов под нестандартные рекламные носители. Вёл комплексную допечатную подготовку макетов для широкоформатной, интерьерной, УФ- и шелкотрафаретной печати, адаптируя макеты под особенности каждого материала. Проверял цветопробы и тесно работал с производственным отделом и печатниками.", en: "Almaty, Kazakhstan. Developing visual concepts for advertising structures, POS materials, exhibition stands and promotional merchandise. Creating concept art and visualizations for mobile promo zones and retail corners at outdoor festivals and off-site events. Adapting designs to technical constraints — optimizing structures for compactness, lightness and aesthetics without compromising functionality. Developing corporate identity and adapting clients' brandbooks for non-standard advertising media. Comprehensive pre-press for large-format, interior, UV and silkscreen printing, adapting layouts to the specifics of each material. Reviewing colour proofs and working closely with the production department and print technicians." } },
+  { years: { ru: "Сен 2023 — Янв 2025", en: "Sep 2023 — Jan 2025" }, title: { ru: "Фриланс · UpWork, Freelancer", en: "Freelance · UpWork, Freelancer" }, place: { ru: "Выполнял широкий спектр заказов, которые находил на UpWork, Freelancer и в Telegram. В основном — дизайн логотипов, ретушь фото, а также правки и обновления дизайна.", en: "Handled a wide range of orders sourced through UpWork, Freelancer and Telegram. Mainly logo design, photo retouching, and design fixes and updates." } },
+  { years: { ru: "Март 2023 — Янв 2024", en: "Mar 2023 — Jan 2024" }, title: { ru: "Графический дизайнер · «OL Print»", en: "Graphic Designer · «OL Print»" }, place: { ru: "Батуми, Грузия. Ежедневно общался с клиентами, чтобы максимально точно закрыть их задачи. Разрабатывал разнообразную печатную продукцию — визитки, баннеры, флаеры, рекламу в транспорте и др., — готовил её к производству и/или участвовал в нём, а также готовил финальные макеты к печати.", en: "Batumi, Georgia. Worked with clients daily to meet their needs at the highest level. Designed a range of print products — business cards, banners, flyers, transit ads and more — prepared them for and/or oversaw production, and prepared final artwork for manufacture." } },
+  { years: { ru: "Май 2021 — Янв 2022", en: "May 2021 — Jan 2022" }, title: { ru: "Стажёр front-end разработчик · ООО «M52»", en: "Front-End Developer Intern · LLC «M52»" }, place: { ru: "Санкт-Петербург, Россия. Участвовал в разработке сайта российской интернет-компании, а также в проработке дизайна.", en: "St. Petersburg, Russia. Helped develop the website of a Russian internet company, and took part in the design work." } },
 ]
 
 export const about = {
@@ -245,10 +245,10 @@ export const about = {
       type: "plain" as const,
       title: { ru: "Хард-скиллы", en: "Hard skills" },
       items: [
-        { ru: "", en: "" },
-        { ru: "", en: "" },
-        { ru: "", en: "" },
-        { ru: "", en: "" },
+        { ru: "Figma", en: "Figma" },
+        { ru: "Adobe Photoshop", en: "Adobe Photoshop" },
+        { ru: "Adobe Illustrator", en: "Adobe Illustrator" },
+        { ru: "Adobe InDesign", en: "Adobe InDesign" },
         { ru: "UI/UX-дизайн", en: "UI/UX Design" },
         { ru: "Промпт-инжиниринг", en: "Prompt Engineering" },
         { ru: "Вайб-кодинг", en: "Vibe Coding" },
@@ -278,10 +278,10 @@ export const about = {
       type: "lang" as const,
       title: { ru: "Языки", en: "Languages" },
       items: [
-        { ru: "", en: "" },
-        { ru: "", en: "" },
-        { ru: "", en: "" },
-        { ru: "", en: "" },
+        { ru: "Русский — <span class='lvl'>C2</span> <span class='note'>(Proficiency)</span>", en: "Russian — <span class='lvl'>C2</span> <span class='note'>(Proficiency)</span>" },
+        { ru: "Английский — <span class='lvl'>B2</span> <span class='note'>(Upper-Intermediate)</span>", en: "English — <span class='lvl'>B2</span> <span class='note'>(Upper-Intermediate)</span>" },
+        { ru: "Немецкий — <span class='lvl'>A1</span> <span class='note'>(Elementary)</span>", en: "German — <span class='lvl'>A1</span> <span class='note'>(Elementary)</span>" },
+        { ru: "Грузинский — <span class='lvl'>A1</span> <span class='note'>(Elementary)</span>", en: "Georgian — <span class='lvl'>A1</span> <span class='note'>(Elementary)</span>" },
       ],
     },
   ],
@@ -297,7 +297,7 @@ export const ui = {
     { href: "#contact", label: { ru: "Контакты", en: "Contact" } },
   ],
   eduTitles: [{ ru: "Образование", en: "Education" }, { ru: "Учебные проекты", en: "Academic projects" }] as const,
-  education: { eyebrow: { ru: "Бэкграунд", en: "Background" }, h2: { ru: "", en: "" } },
+  education: { eyebrow: { ru: "Бэкграунд", en: "Background" }, h2: { ru: "Образование и<br>учебные проекты", en: "Education &amp;<br>academic projects" } },
   experience: { eyebrow: { ru: "Карьера", en: "Career" }, h2: { ru: "Опыт работы", en: "Experience" } },
   works: { eyebrow: { ru: "Портфолио", en: "Portfolio" }, h2: { ru: "Работы", en: "Works" } },
   contact: { eyebrow: { ru: "Контакты", en: "Contacts" }, h2: { ru: "Открыт для новых задач<br>и рабочих предложений.", en: "Open to new challenges<br>and work opportunities." }, sub: { ru: "Выберите удобный способ связи, отвечаю везде :)", en: "Pick whatever channel suits you — I answer everywhere :)" } },
