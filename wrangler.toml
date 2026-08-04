@@ -1,0 +1,6 @@
+name = "portfolio"
+compatibility_date = "2025-01-01"
+
+# Раздаём собранную статику из папки dist как обычный сайт
+[assets]
+directory = "./dist"
