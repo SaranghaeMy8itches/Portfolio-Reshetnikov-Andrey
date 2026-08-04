@@ -182,6 +182,11 @@
     /* на узких экранах ужимаем боковой разброс строк, чтобы имя вписывалось */
     .hero-name .l1{transform:translateX(-1.5%)}
     .hero-name .l2{transform:translateX(1.5%)}
+    /* кружки: подтягиваем ближе к центру и уменьшаем, чтобы влезали в экран */
+    .hr-a{width:52px;height:52px;margin:-150px 0 0 -120px}
+    .hr-b{width:38px;height:38px;margin:140px 0 0 118px}
+    .hr-c{width:16px;height:16px;margin:158px 0 0 -128px}
+    .hr-d{width:34px;height:34px;margin:-140px 0 0 124px}
     .hr-a,.hr-b,.hr-c,.hr-d{transform:translate(-50%,-50%) translate3d(calc(var(--cx,0)*.55),calc(var(--cy,0)*.55),0)}
   }
 
